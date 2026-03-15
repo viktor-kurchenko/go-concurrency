@@ -8,4 +8,7 @@ func main() {
 
 	fmt.Printf("\nPipeline pattern example\n")
 	pipelineExample()
+
+	fmt.Printf("\nFanOut FanIn pattern example\n")
+	fanOutFanInExample()
 }
