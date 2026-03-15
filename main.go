@@ -14,4 +14,7 @@ func main() {
 
 	fmt.Printf("\nOrDone pattern example\n")
 	orDoneExample()
+
+	fmt.Printf("\nTee pattern example\n")
+	teeExample()
 }
