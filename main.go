@@ -11,4 +11,7 @@ func main() {
 
 	fmt.Printf("\nFanOut FanIn pattern example\n")
 	fanOutFanInExample()
+
+	fmt.Printf("\nOrDone pattern example\n")
+	orDoneExample()
 }
