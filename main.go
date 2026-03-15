@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	fmt.Printf("Error handling pattern example\n")
@@ -17,4 +19,7 @@ func main() {
 
 	fmt.Printf("\nTee pattern example\n")
 	teeExample()
+
+	fmt.Printf("\nBridge pattern example\n")
+	bridgeExample()
 }
