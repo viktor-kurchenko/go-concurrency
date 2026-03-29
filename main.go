@@ -22,4 +22,7 @@ func main() {
 
 	fmt.Printf("\nBridge pattern example\n")
 	bridgeExample()
+
+	fmt.Printf("\nKeepalive pattern example\n")
+	keepalive()
 }
